@@ -21,22 +21,12 @@ I care about performance, design minimalism, and developer tools that stay out o
 
 ---
 
-### Current Project
-
-<div align="center">
-  <a href="https://componentsearch.ai" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/ComponentSearch-AI%20Parts%20Finder-3c8cfa?style=flat-square&logo=search&labelColor=202124" />
-  </a>
-  <br><br>
-  <sub>A minimal website that helps you quickly find electrical components using AI.</sub>
-</div>
-
----
-
 ### Contact
 
 <p align="center">
   <a href="mailto:contact@crashdebug.dev">
     <img src="https://img.shields.io/badge/email-contact@crashdebug.dev-565656?style=flat-square&logo=gmail&logoColor=white&labelColor=202124" />
   </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/discord-crashdebug__-5865F2?style=flat-square&logo=discord&logoColor=white&labelColor=202124" />
 </p>
